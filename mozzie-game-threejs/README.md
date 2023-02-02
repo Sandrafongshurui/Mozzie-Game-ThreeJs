@@ -1,6 +1,6 @@
 # Testing Out ThreeJS
--Highlight each item by clicking it
--A pop up with info appears (wip)
+- Highlight each item by clicking it
+- A pop up with info appears (wip)
 
 # Getting Started with Create React App
 
